@@ -11,11 +11,10 @@ This was just a version of a layout from Frontend Mentor. It's supposed to use C
 Feel free to save the folder in any directory you want.
 
 - Extract the folder and put the files in one place.
-- Open the HTML folder
 - Open the index.html
 
 ### Available on Github Page
-See on Github Page [WDablio](https://jorgeluizb.github.io/WDablio/)
+See on Github Page [WDablio - coming soon](https://jorgeluizb.github.io/WDablio/)
 
 ## Authors
 
