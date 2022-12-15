@@ -27,7 +27,7 @@ header{
     text-decoration: none;
     color: #1a1a22;
     font-size: 22px;
-    padding: 10px 20px;
+    padding: 10px 10px;
     transition: all .5s;
     border-bottom: 5px solid transparent;
 }
@@ -311,7 +311,7 @@ footer p{
         height: 100px;
     }
     .menu-item a{
-        font-size: 25px;
+        font-size: 22px;
     }
     .main-article{
         display: block;
