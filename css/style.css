@@ -232,9 +232,6 @@ footer p{
         display: block;
         padding:  10px 0;
     }
-    .menu-item a:hover{
-        border: none;
-    }
     .main-article{
         display: block;
     }
@@ -244,6 +241,7 @@ footer p{
     .article-header{
         height: 180px;
         transition: none;
+        background-size: cover;
     }
     .article-body{
         display: block;
@@ -256,6 +254,8 @@ footer p{
     .article-body-content{
         width: 100%;
         position: static;
+        padding: 10px;
+        box-sizing: border-box;
     }
     .article-body-content p {
         margin: 0;
@@ -319,6 +319,14 @@ footer p{
     .article-section{
         width: 100%;
     }
+    .article-header{
+        background-size: cover;
+        transition: none;
+    }
+    .article-header:hover{
+        background-size: cover;
+        transition: none;
+    }
     .article-btn{
         width: 100%;
     }
@@ -334,5 +342,15 @@ footer p{
     }
     .post-right{
         width: auto;
+    }
+}
+@media screen and (min-width: 901px) and (max-width: 1700px) {
+    .article-header{
+        background-size: cover;
+        transition: none;
+    }
+    .article-header:hover{
+        background-size: cover;
+        transition: none;
     }
 }
